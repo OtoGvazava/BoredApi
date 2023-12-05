@@ -22,7 +22,7 @@ import static com.github.tomakehurst.wiremock.client.WireMock.get;
 import static com.github.tomakehurst.wiremock.client.WireMock.urlEqualTo;
 import static com.github.tomakehurst.wiremock.client.WireMock.aResponse;
 
-public class MakeMock {
+public class BoredAPI {
     ActivityRequest activityRequest;
     WireMockServer wireMockServer;
     Gson gson;
